@@ -1,6 +1,8 @@
 
-# Hardhat-Tailwind-React Ethers Starter Kit
-Speedily develope your decentralized application with this starter kit for free!
+# Crowdfunding-on-Blockchain
+This project aims to explore the growing potential of the Blockchain technology to replace centralised applications to provide an efficient and secure experience in context to Crowd Funding. The ultimate objective of the project is to develop, deploy and access the crowd funding platform using Ethereum blockchain, smart contracts, MetaMask, Hardhat, web3.js, JavaScript.
+The methodology includes development of a smart contract in Solidity as the backbone of the Crowd Funding platform, a Graphical User interface using JavaScript, HTML, CSS, and Hardhat and web3.js for testing and deployment.
+
 
 Follow the steps below to download, install, and run this project.
 
